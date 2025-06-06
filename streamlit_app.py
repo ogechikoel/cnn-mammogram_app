@@ -9,7 +9,7 @@ from tensorflow.keras.preprocessing import image
 from PIL import Image
 
 # Load the model
-model_path = '/content/drive/MyDrive/CNN/mammogram_model.keras'
+model_path = '/content/drive/MyDrive/CNN/mammogram_h5_model.h5'
 
 model = load_cnn_model()
 
