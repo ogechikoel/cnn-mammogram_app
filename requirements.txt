@@ -1,5 +1,5 @@
 streamlit==1.45.1
-tensorflow==2.12.1
+tensorflow==2.15.0  # Updated to a more compatible version
 numpy==1.24.3
 pillow==9.5.0
 
