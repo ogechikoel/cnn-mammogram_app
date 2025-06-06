@@ -1,5 +1,8 @@
-streamlit
+python-3.10
+
+streamlit==1.45.1
+tensorflow==2.12.1
 numpy
-tensorflow
 pillow
+
 
